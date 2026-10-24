@@ -21,10 +21,13 @@ compilation fail and disabled all script mods.
 - `EquippedDecisions.ToUnequipCycle`: the left-hand block that keeps the Projectile
   Launcher charged no longer blocks 2.5 `DualEquip` requests.
 
-## Leg slots
+## Leg and arm slots
 
 - Extended mode adds 3 extra leg slots (4 total), all unlocked by
   `Reflexes_Central_Perk_1_3`.
+- Extended mode adds 2 extra arm slots (3 total; upstream adds 1), both unlocked by
+  `Tech_Central_Perk_3_2`. Use [Arm Wheel](https://github.com/eirhardt/cp2077-arm-wheel)
+  (private) to switch between the arm weapons.
 
 ## Build and install
 
