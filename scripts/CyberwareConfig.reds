@@ -69,7 +69,9 @@ public abstract class CyberwareConfig {
             ExpansionSlot.Create(gamedataNewPerkType.Tech_Central_Milestone_3, 1),
             ExpansionSlot.Create(gamedataNewPerkType.Tech_Central_Perk_3_3, 1)
         ]),
+        // 2 extra arm slots (3 total), both unlocked by the same Tech perk.
         ExpansionArea.Create(gamedataEquipmentArea.ArmsCW, [
+            ExpansionSlot.Create(gamedataNewPerkType.Tech_Central_Perk_3_2, 1),
             ExpansionSlot.Create(gamedataNewPerkType.Tech_Central_Perk_3_2, 1)
         ]),
         ExpansionArea.Create(gamedataEquipmentArea.HandsCW, [
