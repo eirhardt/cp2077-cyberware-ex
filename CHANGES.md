@@ -7,9 +7,11 @@ Fork of [psiberx/cp2077-cyberware-ex](https://github.com/psiberx/cp2077-cyberwar
 
 Patch 2.5 compatibility, the dual wielding fixes and the 3 extra leg slots were merged
 upstream via [PR #14](https://github.com/psiberx/cp2077-cyberware-ex/pull/14)
-(Oct 25, 2026). Upstream now requires Codeware 1.21.0+ and TweakXL 1.12.0+.
-On Oct 31, 2026 this branch was rebased onto upstream; the old history is in
-`backup/patch-2.5-pre-rebase-2026-10-31` (local only).
+(Oct 25, 2026). Upstream 1.7.0 (Nov 11, 2026) supports redscript 1.0 and requires
+Codeware 1.21.3+ and TweakXL 1.12.1+.
+This branch was rebased onto upstream on Oct 31 and again on Nov 11, 2026; the old
+histories are in `backup/patch-2.5-pre-rebase-2026-10-31` and
+`backup/patch-2.5-pre-rebase-2026-11-11` (local only).
 
 ## Only in this fork: a third arm slot
 
